@@ -59,7 +59,6 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
 
 <div align="center">
   <br/>
-  <!-- FIXED QUOTE (Removed markdown bug) -->
   <i>"I can do this all day."</i>
   <br/><br/>
   <!-- Animated Blinking Divider -->
@@ -70,7 +69,6 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
 <h2 align="center">⚡ THE TECH ARSENAL</h2>
 
 <div align="center">
-  <!-- FIXED BUG: Using HTML headings instead of ### which breaks inside divs -->
   <h3>💻 Core Programming</h3>
   <img src="https://skillicons.dev/icons?i=java,python,c,js,ts,dart&theme=dark&perline=6" alt="Programming languages"/>
   
@@ -156,29 +154,6 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
   <br/><br/>
   
   <img width="75%" src="https://streak-stats.demolab.com?user=murasolib&hide_border=true&background=0A192F&ring=B22234&fire=FFFFFF&currStreakLabel=B22234&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=B22234&dates=AAAAAA&border_radius=15" alt="GitHub contribution streak"/>
-</div>
-
-<div align="center">
-  <br/>
-  <!-- Animated Blinking Divider -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:B22234,100:1E3A8A&height=6&section=header&animation=blinking" alt="Energy divider"/>
-</div>
-
-<!-- ================= SHIELD ANIMATION & SNAKE ================= -->
-<h2 align="center">🛡️ THE SHIELD PROTOCOL</h2>
-
-<div align="center">
-  <!-- CAPTAIN AMERICA SHIELD ANIMATION -->
-  <img width="150" src="https://media.giphy.com/media/3o7TKr3nzbh5WgCFxe/giphy.gif" alt="Captain America Shield Animation"/>
-  
-  <br/><br/>
-  
-  <!-- Contribution Snake -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake.svg"/>
-    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake.svg" width="100%"/>
-  </picture>
 </div>
 
 <!-- ================= FOOTER SECTION ================= -->
