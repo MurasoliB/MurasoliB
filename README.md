@@ -2,17 +2,17 @@
 
 <!-- ================= HEADER SECTION ================= -->
 <div align="center">
-  <!-- Animated Waving Header (Dark Navy to Patriotic Red) -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1E3A8A,80:B22234,100:FFFFFF&height=250&section=header&text=MURASOLI%20BALAJI&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=I%20CAN%20DO%20THIS%20ALL%20DAY&descSize=20&descAlignY=60&animation=twinkling" alt="Murasoli Balaji Captain America-inspired banner"/>
+  <!-- Animated Waving Header (Dark Blue to Red) -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,40:1E3A8A,70:B22234,100:FFFFFF&height=250&section=header&text=MURASOLI%20BALAJI&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=I%20CAN%20DO%20THIS%20ALL%20DAY&descSize=20&descAlignY=60&animation=twinkling" alt="Murasoli Balaji Captain America-inspired banner"/>
   
   <br/>
   
-  <!-- Animated Typing Text (Dark Navy) -->
+  <!-- Animated Typing Text (Dark Blue) -->
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=2000&pause=500&color=1E3A8A&center=true&vCenter=true&width=850&height=70&lines=%E2%9A%A1+AWAKEN+THE+TECH+AVENGER+%E2%9A%A1;B.TECH+IT+%7C+KONGU+ENGINEERING+COLLEGE;JAVA+%7C+PYTHON+%7C+FULL+STACK;BUILDING+ULTRON+AI+%7C+GIS+FLOOD+SIMULATION;CODE.+INNOVATE.+PROTECT+THE+FUTURE." alt="Animated superhero developer text"/>
   
   <br/><br/>
   
-  <!-- Animated Social Badges (Navy, Red, Silver) -->
+  <!-- Animated Social Badges (Dark Blue, Red, White) -->
   <a href="https://github.com/murasolib">
     <img src="https://img.shields.io/badge/GITHUB-FOLLOW-0A192F?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=1E3A8A" alt="GitHub"/>
   </a>
@@ -25,12 +25,12 @@
   
   <br/><br/>
   
-  <!-- Animated Visitor Counter (Red & Navy) -->
+  <!-- Animated Visitor Counter -->
   <img src="https://hits.sh/github.com/murasolib/murasolib.svg?style=for-the-badge&label=VISITORS&color=B22234&labelColor=0A192F" alt="Profile visitor counter"/>
   
   <br/><br/>
   
-  <!-- Animated Blinking Divider (Navy & Red) -->
+  <!-- Animated Blinking Divider (Blue & Red) -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:B22234,100:1E3A8A&height=6&section=header&animation=blinking" alt="Energy divider"/>
 </div>
 
@@ -59,6 +59,7 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
 
 <div align="center">
   <br/>
+  <!-- FIXED QUOTE (Removed markdown bug) -->
   <i>"I can do this all day."</i>
   <br/><br/>
   <!-- Animated Blinking Divider -->
@@ -69,6 +70,7 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
 <h2 align="center">⚡ THE TECH ARSENAL</h2>
 
 <div align="center">
+  <!-- FIXED BUG: Using HTML headings instead of ### which breaks inside divs -->
   <h3>💻 Core Programming</h3>
   <img src="https://skillicons.dev/icons?i=java,python,c,js,ts,dart&theme=dark&perline=6" alt="Programming languages"/>
   
@@ -146,7 +148,7 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
 <h2 align="center">📊 DEVELOPER TELEMETRY</h2>
 
 <div align="center">
-  <!-- Stats Cards (Dark Navy Background, Red Titles, White Text) -->
+  <!-- Stats Cards styled with Dark Blue, Red, White -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=murasolib&show_icons=true&hide_border=true&bg_color=0A192F&title_color=B22234&icon_color=FFFFFF&text_color=FFFFFF&rank_icon=percentile&border_radius=15" alt="GitHub statistics"/>
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murasolib&layout=compact&hide_border=true&bg_color=0A192F&title_color=B22234&text_color=FFFFFF&langs_count=8&border_radius=15" alt="Most-used languages"/>
@@ -162,24 +164,21 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:B22234,100:1E3A8A&height=6&section=header&animation=blinking" alt="Energy divider"/>
 </div>
 
-<!-- ================= SHIELD ANIMATION (REPLACING BROKEN SNAKE) ================= -->
+<!-- ================= SHIELD ANIMATION & SNAKE ================= -->
 <h2 align="center">🛡️ THE SHIELD PROTOCOL</h2>
 
 <div align="center">
-  <!-- CUSTOM ANIMATED SVG CAPTAIN AMERICA SHIELD (No more broken GIFs) -->
-  <svg width="150" height="150" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="50" cy="50" r="48" fill="#0A192F" stroke="#FFFFFF" stroke-width="4"/>
-    <circle cx="50" cy="50" r="38" fill="#B22234" stroke="#FFFFFF" stroke-width="2"/>
-    <circle cx="50" cy="50" r="28" fill="#0A192F" stroke="#FFFFFF" stroke-width="2"/>
-    <circle cx="50" cy="50" r="18" fill="#B22234" stroke="#FFFFFF" stroke-width="2"/>
-    <polygon points="50,32 53,42 63,42 55,48 58,58 50,52 42,58 45,48 37,42 47,42" fill="#FFFFFF"/>
-    <animateTransform attributeName="transform" type="rotate" from="0 50 50" to="360 50 50" dur="10s" repeatCount="indefinite"/>
-  </svg>
+  <!-- CAPTAIN AMERICA SHIELD ANIMATION -->
+  <img width="150" src="https://media.giphy.com/media/3o7TKr3nzbh5WgCFxe/giphy.gif" alt="Captain America Shield Animation"/>
   
   <br/><br/>
   
-  <!-- Replaced broken snake with an animated "Infinity Stones" / Shield themed GIF -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:B22234,100:0A192F&height=100&section=footer&text=ASSEMBLE%20THE%20AVENGERS&fontSize=30&fontColor=FFFFFF&animation=twinkling" alt="Animated Shield Protocol Banner"/>
+  <!-- Contribution Snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake.svg"/>
+    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
 </div>
 
 <!-- ================= FOOTER SECTION ================= -->
@@ -212,7 +211,7 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
   
   <br/><br/><br/>
   
-  <!-- Animated Waving Footer (Dark Navy to Patriotic Red) -->
+  <!-- Animated Waving Footer (Dark Blue to Red) -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:B22234,100:1E3A8A&height=200&section=footer&animation=twinkling" alt="Animated superhero footer"/>
   
   <h3>⚡ BUILD • INNOVATE • REPEAT ⚡</h3>
