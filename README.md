@@ -1,98 +1,114 @@
-# 👋 Hi, I'm Murasoli B
+<!--
+  GitHub Profile README
+  Repository: https://github.com/murasolib/murasolib
+-->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+in+Progress;IT+Student+from+India;Java+%7C+React+%7C+Node.js;Exploring+AI+%26+Automation;Building+Ideas+into+Reality" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:4F46E5,100:00E5FF&height=220&section=header&text=Murasoli%20Balaji&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=CODE%20%7C%20CREATE%20%7C%20INNOVATE&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Murasoli Balaji — developer profile banner"/>
 
-### 🚀 Aspiring Software Developer | Full Stack Development | AI Enthusiast
-
-📍 India 🇮🇳 · 💻 Learning by Building · ✨ Creating Something New Every Day
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=Information+Technology+Student;Java+%7C+Python+%7C+Data+Structures+%26+Algorithms;Full-Stack+Developer+in+Progress;AI+%26+Deep+Learning+Enthusiast;Building+Ideas+Into+Reality" alt="Animated developer introduction"/>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-murasolib-181717?style=for-the-badge&logo=github)](https://github.com/murasolib)
-[![Profile Views](https://komarev.com/ghpvc/?username=murasolib&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)](https://github.com/murasolib)
-[![Followers](https://img.shields.io/github/followers/murasolib?style=for-the-badge&logo=github&label=Followers&color=00C7B7)](https://github.com/murasolib?tab=followers)
+<a href="https://github.com/murasolib">
+<img src="https://img.shields.io/badge/GitHub-murasolib-111827?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/murasolibalaji">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:balajimurasoli@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=murasolib&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="GitHub profile visitor counter"/>
 
 </div>
 
 ---
 
-## 🌟 About Me
+## 👨‍💻 About Me
 
-- 🎓 An Information Technology student passionate about software development.
-- 💻 Interested in building modern, responsive, and user-friendly applications.
-- 🌐 Exploring full-stack development with React, Node.js, Express, and databases.
-- 🤖 Interested in Artificial Intelligence, automation, and personal AI assistants.
-- 📱 Exploring mobile application development using Flutter and Dart.
-- 🧠 Practicing Java, data structures, algorithms, and problem-solving.
-- 🌊 Interested in simulation, GIS visualization, and technology-driven solutions.
-- 🎯 My goal is to transform creative ideas into useful real-world applications.
+Hello! I'm **Murasoli Balaji**, an Information Technology student at **Kongu Engineering College**, passionate about software development, problem-solving, and emerging technologies.
 
-> 💡 *Learn continuously. Build consistently. Improve every day.*
+- 🎓 **Education:** Information Technology, Kongu Engineering College
+- 📍 **Location:** Tiruvannamalai, Tamil Nadu, India
+- 💻 **Programming:** Java, Python, and Data Structures & Algorithms
+- 🌐 **Development:** React, JavaScript, Node.js, Express, and databases
+- 🤖 **Interests:** Artificial Intelligence, Deep Learning, and automation
+- 🌊 **Project interests:** Flood simulation, GIS, and real-world engineering solutions
+- 🎯 **Career goal:** Prepare for campus placements and build a strong software engineering career
 
-## 🛠️ Languages, Frameworks & Tools
+I enjoy turning ideas into practical applications, exploring new technologies, and improving my coding skills through hands-on projects.
+
+> 💡 **My philosophy:** Learn continuously. Build consistently. Solve real problems.
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 👨‍💻 Programming Languages
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,java,python,js,ts,dart,php&perline=7" alt="Programming languages" />
+<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,dart&theme=dark" alt="Java, Python, C, JavaScript, TypeScript, and Dart"/>
 
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,svelte,tailwind&perline=7" alt="Web development technologies" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,svelte,tailwind&theme=dark" alt="Web development technologies"/>
 
-### 🗄️ Databases & Backend
+### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase&perline=7" alt="Databases and backend technologies" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase&theme=dark" alt="Database technologies"/>
 
-### 📱 Cloud, DevOps & Development Tools
+### 🤖 AI, Machine Learning & Computer Vision
 
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio,aws,gcp,docker,linux,git,github,vscode,postman&perline=7" alt="Development tools and platforms" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" alt="AI and machine learning technologies"/>
 
-### 🤖 AI, Data Science & Computer Vision
+### ⚙️ Tools, Cloud & Platforms
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&perline=7" alt="AI and data science technologies" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker,aws,gcp,flutter,androidstudio&theme=dark" alt="Development tools and platforms"/>
 
 </div>
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🤖 ULTRON — Personal AI Assistant
 
-<a href="https://github.com/murasolib?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=murasolib&repo=app2-frontend&theme=tokyonight&hide_border=true" alt="Frontend project repository card" />
-</a>
+An AI assistant project focused on voice interaction, intelligent responses, and desktop automation.
 
-<a href="https://github.com/murasolib?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=murasolib&repo=ULTRON&theme=tokyonight&hide_border=true" alt="AI assistant project repository card" />
-</a>
+- 🎙️ Voice-based interaction and assistant responses
+- 🖥️ Windows desktop control and application launching
+- 🧠 Exploring conversational memory and AI integration
+- ⚡ Working toward a more natural, interactive assistant experience
 
-</div>
+**Technologies:** Python, AI integration, speech processing, desktop automation.
 
-### 💡 Areas I'm Building In
+[🔗 Explore my GitHub repositories](https://github.com/murasolib?tab=repositories)
 
-- 🌐 **Full-Stack Applications** — Interactive web interfaces, APIs, authentication, and database integration.
-- 🤖 **ULTRON AI Assistant** — Exploring voice interaction, intelligent responses, and Windows automation.
-- 🌊 **Flood Simulation & GIS** — Exploring terrain processing, water-flow simulation, and inundation visualization.
-- 📱 **Mobile Applications** — Learning to develop cross-platform applications using Flutter.
+### 🌊 Flood Simulation & GIS Visualization
 
-🔎 **Explore all my projects:** [github.com/murasolib](https://github.com/murasolib?tab=repositories)
+A simulation project focused on understanding dam-break and flash-flood scenarios through terrain data and geospatial visualization.
 
-> Note: The two repository cards above are examples. If your repositories have different names, replace `app2-frontend` and `ULTRON` with the correct repository names. Until then, use the repositories link to explore your actual projects.
+- 🗺️ Digital Elevation Model (DEM) processing
+- 💧 Dam-break and water-flow simulation
+- 📊 Flood inundation area and water-depth visualization
+- 🌍 GIS-based results and geospatial data export
+
+**Technologies:** DEM, GIS, hydrodynamic simulation, geospatial visualization.
+
+[🔗 Explore my GitHub repositories](https://github.com/murasolib?tab=repositories)
+
+> These project descriptions summarize the project directions. Visit your repositories to find the corresponding source code and documentation. Replace the repository links with direct project URLs when you confirm their exact names.
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=murasolib&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Murasoli's GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=murasolib&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murasolib&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Most used programming languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murasolib&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used programming languages"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=murasolib&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img width="65%" src="https://streak-stats.demolab.com?user=murasolib&theme=tokyonight&hide_border=true&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -100,76 +116,81 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=murasolib&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=murasolib&bg_color=0D1117&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Activity" alt="GitHub contribution activity graph"/>
 
 </div>
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake.svg"/>
+  <img alt="Animated snake moving across my GitHub contribution grid" src="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 </div>
-
-> To activate this animation, configure the GitHub Actions workflow described below.
 
 ## 🌱 Currently Learning
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-Advanced_Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-Frontend_Development-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-Backend_Development-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![AI](https://img.shields.io/badge/AI-Exploration-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-Mobile_Development-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<img src="https://img.shields.io/badge/Java-DSA%20%26%20Problem%20Solving-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-AI%20%26%20Automation-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-Frontend%20Development-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-Backend%20Development-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 
 </div>
 
-- 📚 Strengthening Java fundamentals, DSA, and coding interview skills.
-- ⚛️ Building interactive React applications with reusable components and state management.
-- 🔗 Developing backend services and REST APIs with Node.js and Express.
-- 🗄️ Practicing database design and CRUD operations.
-- 🤖 Exploring AI-powered applications, voice assistants, and automation.
-- 📱 Improving cross-platform mobile development skills.
+- 🧩 Practicing arrays, strings, sorting, searching, recursion, and other DSA topics.
+- ☕ Strengthening Java fundamentals and coding interview techniques.
+- 🌐 Building full-stack applications with React, Node.js, Express, and databases.
+- 🤖 Exploring AI-powered applications, deep learning, and intelligent automation.
+- 🗺️ Improving my understanding of terrain processing and flood simulation.
+- 🚀 Learning how to build, test, document, and deploy reliable software.
 
-## 🏆 My Developer Goals
+## 🎯 Campus Placement Preparation
 
-- [ ] Build and publish more full-stack projects.
-- [ ] Improve problem-solving and DSA skills.
-- [ ] Develop useful AI-powered applications.
-- [ ] Contribute to open-source projects.
-- [ ] Learn deployment, cloud services, and DevOps fundamentals.
-- [ ] Maintain a consistent coding habit.
+- [ ] Solve coding problems consistently.
+- [ ] Strengthen Java, OOP, DSA, and algorithmic thinking.
+- [ ] Practice technical interview questions and explain solutions clearly.
+- [ ] Develop and document portfolio-quality projects.
+- [ ] Improve SQL, DBMS, operating systems, and computer networks fundamentals.
+- [ ] Practice aptitude, communication, and interview skills.
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/murasolib">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+<a href="https://www.linkedin.com/in/murasolibalaji">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+</a>
+<a href="mailto:balajimurasoli@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<br/><br/>
 
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+📧 **Email:** [balajimurasoli@gmail.com](mailto:balajimurasoli@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/murasolibalaji](https://www.linkedin.com/in/murasolibalaji)
+
+💻 **GitHub:** [github.com/murasolib](https://github.com/murasolib)
 
 </div>
-
-> Replace the LinkedIn and email links with your actual profile and email address before publishing.
 
 ---
 
 <div align="center">
 
-### ✨ Thanks for visiting my profile!
+### ⚡ Build. Break. Learn. Repeat.
 
-**"Code. Learn. Build. Repeat."** 🚀
+*Every commit is a step forward.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Colorful animated-style footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:4F46E5,100:7C3AED&height=120&section=footer" width="100%" alt="Neon gradient footer"/>
 
 </div>
