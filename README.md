@@ -1,184 +1,180 @@
-<!--
-  GitHub Profile README — Murasoli Balaji
-  Repository: https://github.com/murasolib/murasolib
--->
+ <!-- MARVEL-INSPIRED GITHUB PROFILE — MURASOLI BALAJI -->
 
 <div align="center">
 
-<!-- FIXED: removed "&" and emoji from desc so the SVG is valid -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=240&section=header&text=Murasoli%20Balaji&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=IT%20Undergrad%20%7C%20AI%20and%20Full-Stack%20Builder%20%7C%20Problem%20Solver&descSize=18&descAlignY=68&animation=scaleIn&stroke=00E5FF&strokeWidth=2" width="100%" alt="Murasoli Balaji Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,25:8B0000,60:ED1C24,100:FFB000&height=230&section=header&text=MURASOLI%20BALAJI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEER%20YOUR%20OWN%20UNIVERSE&descSize=17&descAlignY=60&animation=fadeIn" />
 
-<!-- FIXED: apostrophe encoded as %27 and "&" replaced with "and" -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2200&pause=700&color=00F7FF&background=00000000&center=true&vCenter=true&random=false&width=850&height=50&lines=%3E+Hello+World!+I%27m+Murasoli+Balaji+%F0%9F%91%8B;%3E+B.Tech+IT+Student+%40+Kongu+Engineering+College+%F0%9F%8E%93;%3E+Crafting+Code+in+Java%2C+Python+and+MERN+Stack+%E2%9A%A1;%3E+Building+ULTRON+AI+and+GIS+Flood+Simulations+%F0%9F%8C%8A" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=19&duration=2200&pause=650&color=FF3131&center=true&vCenter=true&width=850&height=65&lines=I+AM+THE+ARCHITECT+OF+MY+OWN+TECH+UNIVERSE;B.Tech+IT+%7C+Kongu+Engineering+College;JAVA+%7C+PYTHON+%7C+FULL+STACK;BUILDING+ULTRON+AI+%7C+GIS+FLOOD+SIMULATION;WITH+GREAT+CODE+COMES+GREAT+RESPONSIBILITY" alt="Marvel inspired animated typing text" />
 
 <br/>
 
-<!-- Social & Profile Pills -->
-<a href="https://github.com/murasolib">
-  <img src="https://img.shields.io/badge/GitHub-murasolib-090D16?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=111827" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/murasolibalaji">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=064E77" alt="LinkedIn"/>
-</a>
-<a href="mailto:balajimurasoli@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact_Me-FF2E63?style=for-the-badge&logo=gmail&logoColor=white&labelColor=9E193B" alt="Email"/>
-</a>
-<!-- FIXED: swapped komarev.com for hits.sh -->
-<img src="https://hits.sh/github.com/murasolib/murasolib.svg?style=for-the-badge&label=VISITS&color=00F7FF&labelColor=111827" alt="Views"/>
+<a href="https://github.com/murasolib"><img src="https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/murasolibalaji"><img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=00A8FF" /></a>
+<a href="mailto:balajimurasoli@gmail.com"><img src="https://img.shields.io/badge/CONTACT-8B0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<img src="https://hits.sh/github.com/murasolib/murasolib.svg?style=for-the-badge&label=VISITORS&color=ED1C24&labelColor=0D0D0D" />
 
 </div>
 
-<!-- Aqua Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+---
 
-## 🧑‍💻 About Me
+## ⚡ ORIGIN STORY
 
-<img align="right" width="350" style="border-radius: 16px;" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Young Student Developer Coding" />
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
-Hey there! 👋 I'm **Murasoli Balaji**, a young developer and **Information Technology undergraduate at Kongu Engineering College** with a builder's mindset.
+Greetings, Earth! 👋
 
-- 🎓 **Student Developer:** Pursuing B.Tech IT at **KEC**
-- 📍 **Hometown:** Tiruvannamalai, Tamil Nadu, India
-- 🧠 **DSA & Core Code:** Java, Python, C, Object-Oriented Programming
-- 🌐 **Full-Stack Web:** React, Node.js, Express, Tailwind, MongoDB & SQL
-- 🤖 **Next-Gen Tech:** Deep Learning, Voice AI Assistants (`ULTRON`), and GIS Terrain Modeling
-- 🎯 **Next Milestone:** Cracking campus placements & shipping impactful open-source projects
+I'm **Murasoli Balaji**, an Information Technology undergraduate at **Kongu Engineering College**, passionate about transforming ideas into real-world software.
 
-> ⚡ *"Code like an artist. Debug like a detective. Ship like an engineer."*
+- 🎓 B.Tech Information Technology
+- 📍 Tiruvannamalai, Tamil Nadu, India
+- 🧠 Java, Python, C, DSA and OOP
+- 🌐 React, Node.js, Express and MongoDB
+- 🤖 Voice AI, intelligent automation and machine learning
+- 🌊 GIS terrain analysis and flood simulation
+- 🎯 Mission: Master problem-solving and build impactful projects
+
+> *"The world is full of possibilities. Build something extraordinary."*
 
 <br clear="right"/>
 
-<!-- Aqua Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,50:ED1C24,100:FFB000&height=4&section=header" />
 
-## 🛠️ My Tech Arsenal
+## 🛡️ THE TECH AVENGERS
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="90" alt="Animated Tech"/>
+### 💻 Core Powers
 
-### 💻 Languages & Core
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,ts,dart&theme=dark&perline=6" alt="Languages"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,dart&theme=dark&perline=6" />
 
-### 🌐 Full-Stack & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,svelte,nodejs,express,mongodb,mysql,postgres,sqlite,firebase&theme=dark&perline=6" alt="Web and DB"/>
-</p>
+### 🌐 Web Development Lab
 
-### 🤖 AI, Cloud & Developer Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,git,github,vscode,docker,linux,aws,gcp,flutter,postman&theme=dark&perline=6" alt="AI and Tools"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,svelte,nodejs,express,mongodb,mysql,postgres,firebase&theme=dark&perline=6" />
+
+### 🤖 Intelligence and Infrastructure
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,git,github,vscode,docker,linux,aws,gcp,flutter,postman&theme=dark&perline=6" />
 
 </div>
 
-<!-- Aqua Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+---
 
-## 🚀 Featured Builds
+## 🚀 PROJECTS FROM THE MULTIVERSE
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 ULTRON — Voice AI Assistant</h3>
-      <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="75" alt="AI Bot"/>
-        <br/>
-        <img src="https://img.shields.io/badge/Python-00F7FF?style=flat-square&logo=python&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Voice_AI-FF2E63?style=flat-square"/>
-        <img src="https://img.shields.io/badge/OS_Automation-7C3AED?style=flat-square"/>
-      </div>
-      <br/>
-      <ul>
-        <li>🎙️ Hands-free neural voice interaction & smart replies</li>
-        <li>🖥️ Automated Windows application control & system tasks</li>
-        <li>🧠 Context-aware memory with LLM integration</li>
-      </ul>
-      <div align="center">
-        <a href="https://github.com/murasolib?tab=repositories">
-          <img src="https://img.shields.io/badge/View_Project-%E2%86%92-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Repo"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌊 GIS Flood & Dam-Break Sim</h3>
-      <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="75" alt="Globe"/>
-        <br/>
-        <img src="https://img.shields.io/badge/GIS_Terrain-00F7FF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/DEM_Analysis-10B981?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Hydro_Sim-7C3AED?style=flat-square"/>
-      </div>
-      <br/>
-      <ul>
-        <li>🗺️ Digital Elevation Model (DEM) 3D terrain processing</li>
-        <li>💧 Real-time dam-break & flash-flood water flow modeling</li>
-        <li>📊 Flood inundation depth heatmaps & geospatial export</li>
-      </ul>
-      <div align="center">
-        <a href="https://github.com/murasolib?tab=repositories">
-          <img src="https://img.shields.io/badge/View_Project-%E2%86%92-FF2E63?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<!-- Aqua Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-## 📊 Live Developer Telemetry
+<tr>
+<td width="50%" valign="top">
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=murasolib&show_icons=true&theme=radical&hide_border=true&bg_color=090D16&title_color=00F7FF&icon_color=FF2E63&text_color=E2E8F0&rank_icon=percentile" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murasolib&layout=compact&theme=radical&hide_border=true&bg_color=090D16&title_color=00F7FF&text_color=E2E8F0&langs_count=8" alt="Top Languages"/>
+<img src="https://img.shields.io/badge/PROJECT_01-ED1C24?style=for-the-badge&logo=python&logoColor=white" />
+
+### 🤖 ULTRON AI
+
+<img width="110" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" />
+
+**Your personal AI-powered assistant**
+
+</div>
+
+- 🎙️ Voice interaction and spoken responses
+- 🖥️ Windows application automation
+- 🧠 Context-aware assistant memory
+- 🌐 AI-powered assistance
+
+**Technology:** Python · Voice AI · Automation
+
+<div align="center">
+
+<a href="https://github.com/murasolib?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-0D0D0D?style=for-the-badge&logo=github&logoColor=ED1C24" /></a>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT_02-00BFFF?style=for-the-badge&logo=googleearth&logoColor=white" />
+
+### 🌊 FLOOD SIMULATION
+
+<img width="110" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" />
+
+**Understanding water, terrain and risk**
+
+</div>
+
+- 🗺️ Digital Elevation Model processing
+- 💧 Dam-break and flood-flow simulation
+- 📊 Inundation depth visualization
+- 📁 Geospatial data export
+
+**Technology:** GIS · DEM · Hydrodynamic modeling
+
+<div align="center">
+
+<a href="https://github.com/murasolib?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-0D0D0D?style=for-the-badge&logo=github&logoColor=00BFFF" /></a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 SUIT UP: DEVELOPER STATS
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=murasolib&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=ED1C24&icon_color=FFB000&text_color=FFFFFF&rank_icon=percentile" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murasolib&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=ED1C24&text_color=FFFFFF&langs_count=8" />
 
 <br/><br/>
 
-<img width="68%" src="https://streak-stats.demolab.com?user=murasolib&theme=radical&hide_border=true&background=090D16&ring=00F7FF&fire=FF2E63&currStreakLabel=00F7FF" alt="Streak Stats"/>
-
-<!-- REMOVED: github-readme-activity-graph (public server is unreliable) -->
+<img width="75%" src="https://streak-stats.demolab.com?user=murasolib&hide_border=true&background=0D0D0D&ring=ED1C24&fire=FFB000&currStreakLabel=ED1C24&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFB000&dates=AAAAAA" />
 
 </div>
 
-## 🐍 Contribution Snake
+---
+
+## 🐍 THE CONTRIBUTION GAUNTLET
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 </div>
 
-<!-- Aqua Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+---
 
-## 🤝 Let's Build Something Together!
+## 🌌 BEYOND THE MULTIVERSE
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="90" alt="Handshake"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1C24,50:8B0000,100:FFB000&height=3&section=header" />
 
-<br/>
+### Every great project begins with an idea.
 
-<a href="https://github.com/murasolib">
-  <img src="https://img.shields.io/badge/GitHub-@murasolib-090D16?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/murasolibalaji">
-  <img src="https://img.shields.io/badge/LinkedIn-Murasoli_Balaji-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:balajimurasoli@gmail.com">
-  <img src="https://img.shields.io/badge/Email-balajimurasoli@gmail.com-FF2E63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+**Let's collaborate, innovate, and build the future.**
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=130&section=footer" width="100%" alt="Footer"/>
+<a href="https://github.com/murasolib"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-0D0D0D?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/murasolibalaji"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:balajimurasoli@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET'S_TALK-8B0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB000,35:ED1C24,70:8B0000,100:080808&height=150&section=footer&animation=fadeIn" />
+
+**`INITIATIVE: BUILD • INNOVATE • REPEAT`**
+
+<sub>Designed with code, inspired by superhero cinema.</sub>
 
 </div>
