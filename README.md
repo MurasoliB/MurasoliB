@@ -2,8 +2,8 @@
 
 <!-- ================= HEADER SECTION ================= -->
 <div align="center">
-  <!-- NEW HEADER: Sharp "Slice" Animation (Dark Navy Base, Red Diagonal Slice) -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0A192F,30:B22234,70:1E3A8A,100:0A192F&height=250&section=header&text=MURASOLI%20BALAJI&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=I%20CAN%20DO%20THIS%20ALL%20DAY&descSize=20&descAlignY=60&animation=twinkling" alt="Murasoli Balaji Captain America-inspired banner"/>
+  <!-- NEW HEADER: Solid High-Contrast Dark Navy & Red Waving Banner -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1E3A8A,100:B22234&height=250&section=header&text=MURASOLI%20BALAJI&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=I%20CAN%20DO%20THIS%20ALL%20DAY&descSize=20&descAlignY=60&animation=twinkling" alt="Murasoli Balaji Captain America-inspired banner"/>
   
   <br/>
   
@@ -203,8 +203,8 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
   
   <br/><br/><br/>
   
-  <!-- NEW FOOTER: "Wave" Animation (Red to Navy Blue, matches theme but different shape) -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:B22234,50:1E3A8A,100:0A192F&height=200&section=footer&animation=fadeIn" alt="Animated superhero footer"/>
+  <!-- NEW FOOTER: Solid High-Contrast Dark Navy & Red Waving Banner -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1E3A8A,100:B22234&height=200&section=footer&animation=twinkling" alt="Animated superhero footer"/>
   
   <h3>⚡ BUILD • INNOVATE • REPEAT ⚡</h3>
   <sub>Inspired by superhero cinema. Powered by curiosity and code.</sub>
