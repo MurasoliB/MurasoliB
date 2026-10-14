@@ -156,6 +156,23 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
   <img width="75%" src="https://streak-stats.demolab.com?user=murasolib&hide_border=true&background=0A192F&ring=B22234&fire=FFFFFF&currStreakLabel=B22234&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=B22234&dates=AAAAAA&border_radius=15" alt="GitHub contribution streak"/>
 </div>
 
+<div align="center">
+  <br/>
+  <!-- Animated Blinking Divider -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:B22234,100:1E3A8A&height=6&section=header&animation=blinking" alt="Energy divider"/>
+</div>
+
+<!-- ================= SNAKE ANIMATION (ADDED BACK) ================= -->
+<h2 align="center">🐍 THE CONTRIBUTION GAUNTLET</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake.svg"/>
+    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
+</div>
+
 <!-- ================= FOOTER SECTION ================= -->
 <div align="center">
   <br/>
