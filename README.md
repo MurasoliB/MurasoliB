@@ -5,17 +5,17 @@
 
 <div align="center">
 
-<!-- NEW ANIMATION: Cyberpunk Venom Pulse Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=240&section=header&text=Murasoli%20Balaji&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=%F0%9F%9A%80%20IT%20Undergrad%20%7C%20AI%20%26%20Full-Stack%20Builder%20%7C%20Problem%20Solver&descSize=18&descAlignY=68&animation=scaleIn&stroke=00E5FF&strokeWidth=2" width="100%" alt="Murasoli Balaji Banner"/>
+<!-- FIXED: removed "&" and emoji from desc so the SVG is valid -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=240&section=header&text=Murasoli%20Balaji&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=IT%20Undergrad%20%7C%20AI%20and%20Full-Stack%20Builder%20%7C%20Problem%20Solver&descSize=18&descAlignY=68&animation=scaleIn&stroke=00E5FF&strokeWidth=2" width="100%" alt="Murasoli Balaji Banner"/>
 
-<!-- NEW ANIMATION: Terminal-Style Multi-Line Typing SVG -->
+<!-- FIXED: apostrophe encoded as %27 and "&" replaced with "and" -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2200&pause=700&color=00F7FF&background=00000000&center=true&vCenter=true&random=false&width=850&height=50&lines=%3E+Hello+World!+I'm+Murasoli+Balaji+%F0%9F%91%8B;%3E+B.Tech+IT+Student+%40+Kongu+Engineering+College+%F0%9F%8E%93;%3E+Crafting+Code+in+Java%2C+Python+%26+MERN+Stack+%E2%9A%A1;%3E+Building+ULTRON+AI+%26+GIS+Flood+Simulations+%F0%9F%8C%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2200&pause=700&color=00F7FF&background=00000000&center=true&vCenter=true&random=false&width=850&height=50&lines=%3E+Hello+World!+I%27m+Murasoli+Balaji+%F0%9F%91%8B;%3E+B.Tech+IT+Student+%40+Kongu+Engineering+College+%F0%9F%8E%93;%3E+Crafting+Code+in+Java%2C+Python+and+MERN+Stack+%E2%9A%A1;%3E+Building+ULTRON+AI+and+GIS+Flood+Simulations+%F0%9F%8C%8A" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Animated Social & Profile Pills -->
+<!-- Social & Profile Pills -->
 <a href="https://github.com/murasolib">
   <img src="https://img.shields.io/badge/GitHub-murasolib-090D16?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=111827" alt="GitHub"/>
 </a>
@@ -25,16 +25,16 @@
 <a href="mailto:balajimurasoli@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact_Me-FF2E63?style=for-the-badge&logo=gmail&logoColor=white&labelColor=9E193B" alt="Email"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=murasolib&style=for-the-badge&color=00F7FF&label=VISITS&labelColor=111827" alt="Views"/>
+<!-- FIXED: swapped komarev.com for hits.sh -->
+<img src="https://hits.sh/github.com/murasolib/murasolib.svg?style=for-the-badge&label=VISITS&color=00F7FF&labelColor=111827" alt="Views"/>
 
 </div>
 
-<!-- NEW ANIMATION: Rainbow Laser Pulse Divider -->
+<!-- Aqua Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
 ## 🧑‍💻 About Me
 
-<!-- NEW YOUNG CHARACTER ANIMATION (Young Anime Student Coding with Headphones) -->
 <img align="right" width="350" style="border-radius: 16px;" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Young Student Developer Coding" />
 
 Hey there! 👋 I'm **Murasoli Balaji**, a young developer and **Information Technology undergraduate at Kongu Engineering College** with a builder's mindset.
@@ -50,14 +50,13 @@ Hey there! 👋 I'm **Murasoli Balaji**, a young developer and **Information Tec
 
 <br clear="right"/>
 
-<!-- NEW ANIMATION: Aqua Pulse Divider -->
+<!-- Aqua Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
 ## 🛠️ My Tech Arsenal
 
 <div align="center">
 
-<!-- Animated Floating Rocket / Tech Header -->
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="90" alt="Animated Tech"/>
 
 ### 💻 Languages & Core
@@ -77,7 +76,7 @@ Hey there! 👋 I'm **Murasoli Balaji**, a young developer and **Information Tec
 
 </div>
 
-<!-- NEW ANIMATION: Aqua Pulse Divider -->
+<!-- Aqua Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
 ## 🚀 Featured Builds
@@ -129,7 +128,7 @@ Hey there! 👋 I'm **Murasoli Balaji**, a young developer and **Information Tec
   </tr>
 </table>
 
-<!-- NEW ANIMATION: Aqua Pulse Divider -->
+<!-- Aqua Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
 ## 📊 Live Developer Telemetry
@@ -141,13 +140,9 @@ Hey there! 👋 I'm **Murasoli Balaji**, a young developer and **Information Tec
 
 <br/><br/>
 
-<!-- Animated Neon Streak -->
 <img width="68%" src="https://streak-stats.demolab.com?user=murasolib&theme=radical&hide_border=true&background=090D16&ring=00F7FF&fire=FF2E63&currStreakLabel=00F7FF" alt="Streak Stats"/>
 
-<br/><br/>
-
-<!-- Cyberpunk Pulse Activity Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=murasolib&bg_color=090D16&color=00F7FF&line=FF2E63&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&custom_title=Commit%20Velocity%20%26%20Activity" alt="Activity Graph"/>
+<!-- REMOVED: github-readme-activity-graph (public server is unreliable) -->
 
 </div>
 
@@ -163,7 +158,7 @@ Hey there! 👋 I'm **Murasoli Balaji**, a young developer and **Information Tec
 
 </div>
 
-<!-- NEW ANIMATION: Aqua Pulse Divider -->
+<!-- Aqua Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
 ## 🤝 Let's Build Something Together!
@@ -184,7 +179,6 @@ Hey there! 👋 I'm **Murasoli Balaji**, a young developer and **Information Tec
   <img src="https://img.shields.io/badge/Email-balajimurasoli@gmail.com-FF2E63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<!-- NEW ANIMATION: Glowing Capsule Footer -->
 <img src="https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=130&section=footer" width="100%" alt="Footer"/>
 
 </div>
