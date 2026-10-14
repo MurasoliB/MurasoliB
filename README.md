@@ -2,8 +2,8 @@
 
 <!-- ================= HEADER SECTION ================= -->
 <div align="center">
-  <!-- Animated Waving Header (Dark Blue to Red) -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,40:1E3A8A,70:B22234,100:FFFFFF&height=250&section=header&text=MURASOLI%20BALAJI&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=I%20CAN%20DO%20THIS%20ALL%20DAY&descSize=20&descAlignY=60&animation=twinkling" alt="Murasoli Balaji Captain America-inspired banner"/>
+  <!-- NEW HEADER: High-contrast Dark Navy & Captain America Red waving banner -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1E3A8A,100:B22234&height=250&section=header&text=MURASOLI%20BALAJI&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=I%20CAN%20DO%20THIS%20ALL%20DAY&descSize=20&descAlignY=60&animation=twinkling" alt="Murasoli Balaji Captain America-inspired banner"/>
   
   <br/>
   
@@ -162,7 +162,7 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:B22234,100:1E3A8A&height=6&section=header&animation=blinking" alt="Energy divider"/>
 </div>
 
-<!-- ================= SNAKE ANIMATION (ADDED BACK) ================= -->
+<!-- ================= SNAKE ANIMATION ================= -->
 <h2 align="center">🐍 THE CONTRIBUTION GAUNTLET</h2>
 
 <div align="center">
@@ -203,8 +203,8 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
   
   <br/><br/><br/>
   
-  <!-- Animated Waving Footer (Dark Blue to Red) -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:B22234,100:1E3A8A&height=200&section=footer&animation=twinkling" alt="Animated superhero footer"/>
+  <!-- NEW FOOTER: High-contrast Dark Navy & Captain America Red waving banner -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1E3A8A,100:B22234&height=200&section=footer&animation=twinkling" alt="Animated superhero footer"/>
   
   <h3>⚡ BUILD • INNOVATE • REPEAT ⚡</h3>
   <sub>Inspired by superhero cinema. Powered by curiosity and code.</sub>
