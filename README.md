@@ -1,18 +1,18 @@
-<!-- MURASOLI BALAJI | CAPTAIN AMERICA-INSPIRED DEVELOPER PROFILE -->
+<!-- MURASOLI BALAJI | CAPTAIN AMERICA DARK BLUE THEME -->
 
 <!-- ================= HEADER SECTION ================= -->
 <div align="center">
-  <!-- Animated Waving Header (Captain America Blue to Red) -->
+  <!-- Animated Waving Header (Dark Blue to Red) -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,40:1E3A8A,70:B22234,100:FFFFFF&height=250&section=header&text=MURASOLI%20BALAJI&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=I%20CAN%20DO%20THIS%20ALL%20DAY&descSize=20&descAlignY=60&animation=twinkling" alt="Murasoli Balaji Captain America-inspired banner"/>
   
   <br/>
   
-  <!-- Animated Typing Text (Captain America Blue) -->
+  <!-- Animated Typing Text (Dark Blue) -->
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=2000&pause=500&color=1E3A8A&center=true&vCenter=true&width=850&height=70&lines=%E2%9A%A1+AWAKEN+THE+TECH+AVENGER+%E2%9A%A1;B.TECH+IT+%7C+KONGU+ENGINEERING+COLLEGE;JAVA+%7C+PYTHON+%7C+FULL+STACK;BUILDING+ULTRON+AI+%7C+GIS+FLOOD+SIMULATION;CODE.+INNOVATE.+PROTECT+THE+FUTURE." alt="Animated superhero developer text"/>
   
   <br/><br/>
   
-  <!-- Animated Social Badges (Blue, Red, White) -->
+  <!-- Animated Social Badges (Dark Blue, Red, White) -->
   <a href="https://github.com/murasolib">
     <img src="https://img.shields.io/badge/GITHUB-FOLLOW-0A192F?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=1E3A8A" alt="GitHub"/>
   </a>
@@ -25,17 +25,17 @@
   
   <br/><br/>
   
-  <!-- Animated Visitor Counter (Blue & Red) -->
+  <!-- Animated Visitor Counter -->
   <img src="https://hits.sh/github.com/murasolib/murasolib.svg?style=for-the-badge&label=VISITORS&color=B22234&labelColor=0A192F" alt="Profile visitor counter"/>
   
   <br/><br/>
   
-  <!-- Animated Colorful Divider (Blinking Blue & Red) -->
+  <!-- Animated Blinking Divider (Blue & Red) -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:B22234,100:1E3A8A&height=6&section=header&animation=blinking" alt="Energy divider"/>
 </div>
 
 <!-- ================= ABOUT SECTION ================= -->
-## 🦸 ABOUT THE DEVELOPER
+<h2 align="center">🦸 ABOUT THE DEVELOPER</h2>
 
 <div align="center">
   <!-- Animated Badge -->
@@ -58,40 +58,42 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
 <br clear="right"/>
 
 <div align="center">
-  > *"I can do this all day."*
+  <br/>
+  <!-- FIXED QUOTE (Removed markdown bug) -->
+  <i>"I can do this all day."</i>
   <br/><br/>
-  <!-- Animated Colorful Divider -->
+  <!-- Animated Blinking Divider -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:B22234,100:1E3A8A&height=6&section=header&animation=blinking" alt="Energy divider"/>
 </div>
 
 <!-- ================= TECH ARSENAL ================= -->
-## ⚡ THE TECH ARSENAL
+<h2 align="center">⚡ THE TECH ARSENAL</h2>
 
 <div align="center">
-  ### 💻 Core Programming
+  <!-- FIXED BUG: Using HTML headings instead of ### which breaks inside divs -->
+  <h3>💻 Core Programming</h3>
   <img src="https://skillicons.dev/icons?i=java,python,c,js,ts,dart&theme=dark&perline=6" alt="Programming languages"/>
   
-  ### 🌐 Full-Stack Development
+  <h3>🌐 Full-Stack Development</h3>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,svelte,nodejs,express&theme=dark&perline=7" alt="Web development technologies"/>
   
-  ### 🗄️ Databases and Backend
+  <h3>🗄️ Databases and Backend</h3>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase&theme=dark&perline=5" alt="Databases"/>
   
-  ### 🤖 AI, Cloud and Developer Tools
+  <h3>🤖 AI, Cloud and Developer Tools</h3>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,git,github,vscode,docker,linux,aws,gcp,flutter,postman&theme=dark&perline=6" alt="AI and developer tools"/>
   
   <br/>
-  <!-- Animated Colorful Divider -->
+  <!-- Animated Blinking Divider -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:B22234,100:1E3A8A&height=6&section=header&animation=blinking" alt="Energy divider"/>
 </div>
 
 <!-- ================= PROJECTS ================= -->
-## 🚀 PROJECTS FROM THE MULTIVERSE
+<h2 align="center">🚀 PROJECTS FROM THE MULTIVERSE</h2>
 
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
-  <!-- Animated Project Badge -->
   <img src="https://img.shields.io/badge/PROJECT_01-SHIELD_PROTOCOL-1E3A8A?style=for-the-badge&labelColor=B22234&logoColor=FFFFFF" alt="Project one"/>
   <h3>🤖 ULTRON AI</h3>
   <img width="100" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="AI animation"/>
@@ -113,7 +115,6 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
   </a>
 </td>
 <td width="50%" align="center" valign="top">
-  <!-- Animated Project Badge -->
   <img src="https://img.shields.io/badge/PROJECT_02-FREEDOM_PROTOCOL-1E3A8A?style=for-the-badge&labelColor=B22234&logoColor=FFFFFF" alt="Project two"/>
   <h3>🌊 GIS FLOOD SIMULATION</h3>
   <img width="100" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="Earth animation"/>
@@ -138,35 +139,41 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
 </table>
 
 <div align="center">
-  <!-- Animated Colorful Divider -->
+  <br/>
+  <!-- Animated Blinking Divider -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:B22234,100:1E3A8A&height=6&section=header&animation=blinking" alt="Energy divider"/>
 </div>
 
-<!-- ================= TELEMETRY (CAPTAIN AMERICA THEME) ================= -->
-## 📊 DEVELOPER TELEMETRY
+<!-- ================= TELEMETRY ================= -->
+<h2 align="center">📊 DEVELOPER TELEMETRY</h2>
 
 <div align="center">
-  <!-- Animated GitHub Stats Card (Blue, Red, White) -->
+  <!-- Stats Cards styled with Dark Blue, Red, White -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=murasolib&show_icons=true&hide_border=true&bg_color=0A192F&title_color=B22234&icon_color=FFFFFF&text_color=FFFFFF&rank_icon=percentile&border_radius=15" alt="GitHub statistics"/>
   
-  <!-- Animated Top Languages Card (Blue, Red, White) -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murasolib&layout=compact&hide_border=true&bg_color=0A192F&title_color=B22234&text_color=FFFFFF&langs_count=8&border_radius=15" alt="Most-used languages"/>
   
   <br/><br/>
   
-  <!-- Animated Streak Stats Card (Blue, Red, White) -->
   <img width="75%" src="https://streak-stats.demolab.com?user=murasolib&hide_border=true&background=0A192F&ring=B22234&fire=FFFFFF&currStreakLabel=B22234&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=B22234&dates=AAAAAA&border_radius=15" alt="GitHub contribution streak"/>
 </div>
 
 <div align="center">
-  <!-- Animated Colorful Divider -->
+  <br/>
+  <!-- Animated Blinking Divider -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:B22234,100:1E3A8A&height=6&section=header&animation=blinking" alt="Energy divider"/>
 </div>
 
-<!-- ================= SNAKE ================= -->
-## 🐍 THE CONTRIBUTION GAUNTLET
+<!-- ================= SHIELD ANIMATION & SNAKE ================= -->
+<h2 align="center">🛡️ THE SHIELD PROTOCOL</h2>
 
 <div align="center">
+  <!-- CAPTAIN AMERICA SHIELD ANIMATION -->
+  <img width="150" src="https://media.giphy.com/media/3o7TKr3nzbh5WgCFxe/giphy.gif" alt="Captain America Shield Animation"/>
+  
+  <br/><br/>
+  
+  <!-- Contribution Snake -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake.svg"/>
@@ -177,7 +184,7 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
 <!-- ================= FOOTER SECTION ================= -->
 <div align="center">
   <br/>
-  <!-- Animated Colorful Divider -->
+  <!-- Animated Blinking Divider -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:B22234,100:1E3A8A&height=6&section=header&animation=blinking" alt="Energy divider"/>
   
   <br/>
@@ -204,7 +211,7 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
   
   <br/><br/><br/>
   
-  <!-- Animated Waving Footer (Captain America Blue to Red) -->
+  <!-- Animated Waving Footer (Dark Blue to Red) -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:B22234,100:1E3A8A&height=200&section=footer&animation=twinkling" alt="Animated superhero footer"/>
   
   <h3>⚡ BUILD • INNOVATE • REPEAT ⚡</h3>
