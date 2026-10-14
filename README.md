@@ -1,13 +1,175 @@
-<h1 align="center">Hi 👋, I'm Murasoli B</h1>
-<h3 align="center">A passionate from India</h3>
+# 👋 Hi, I'm Murasoli B
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+in+Progress;IT+Student+from+India;Java+%7C+React+%7C+Node.js;Exploring+AI+%26+Automation;Building+Ideas+into+Reality" alt="Typing SVG" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=murasolib&show_icons=true&locale=en&layout=compact" alt="murasolib" /></p>
+### 🚀 Aspiring Software Developer | Full Stack Development | AI Enthusiast
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murasolib&" alt="murasolib" /></p>
+📍 India 🇮🇳 · 💻 Learning by Building · ✨ Creating Something New Every Day
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-murasolib-181717?style=for-the-badge&logo=github)](https://github.com/murasolib)
+[![Profile Views](https://komarev.com/ghpvc/?username=murasolib&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)](https://github.com/murasolib)
+[![Followers](https://img.shields.io/github/followers/murasolib?style=for-the-badge&logo=github&label=Followers&color=00C7B7)](https://github.com/murasolib?tab=followers)
+
+</div>
+
+---
+
+## 🌟 About Me
+
+- 🎓 An Information Technology student passionate about software development.
+- 💻 Interested in building modern, responsive, and user-friendly applications.
+- 🌐 Exploring full-stack development with React, Node.js, Express, and databases.
+- 🤖 Interested in Artificial Intelligence, automation, and personal AI assistants.
+- 📱 Exploring mobile application development using Flutter and Dart.
+- 🧠 Practicing Java, data structures, algorithms, and problem-solving.
+- 🌊 Interested in simulation, GIS visualization, and technology-driven solutions.
+- 🎯 My goal is to transform creative ideas into useful real-world applications.
+
+> 💡 *Learn continuously. Build consistently. Improve every day.*
+
+## 🛠️ Languages, Frameworks & Tools
+
+<div align="center">
+
+### 👨‍💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,java,python,js,ts,dart,php&perline=7" alt="Programming languages" />
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,svelte,tailwind&perline=7" alt="Web development technologies" />
+
+### 🗄️ Databases & Backend
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase&perline=7" alt="Databases and backend technologies" />
+
+### 📱 Cloud, DevOps & Development Tools
+
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,aws,gcp,docker,linux,git,github,vscode,postman&perline=7" alt="Development tools and platforms" />
+
+### 🤖 AI, Data Science & Computer Vision
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&perline=7" alt="AI and data science technologies" />
+
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/murasolib?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=murasolib&repo=app2-frontend&theme=tokyonight&hide_border=true" alt="Frontend project repository card" />
+</a>
+
+<a href="https://github.com/murasolib?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=murasolib&repo=ULTRON&theme=tokyonight&hide_border=true" alt="AI assistant project repository card" />
+</a>
+
+</div>
+
+### 💡 Areas I'm Building In
+
+- 🌐 **Full-Stack Applications** — Interactive web interfaces, APIs, authentication, and database integration.
+- 🤖 **ULTRON AI Assistant** — Exploring voice interaction, intelligent responses, and Windows automation.
+- 🌊 **Flood Simulation & GIS** — Exploring terrain processing, water-flow simulation, and inundation visualization.
+- 📱 **Mobile Applications** — Learning to develop cross-platform applications using Flutter.
+
+🔎 **Explore all my projects:** [github.com/murasolib](https://github.com/murasolib?tab=repositories)
+
+> Note: The two repository cards above are examples. If your repositories have different names, replace `app2-frontend` and `ULTRON` with the correct repository names. Until then, use the repositories link to explore your actual projects.
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=murasolib&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Murasoli's GitHub statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murasolib&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Most used programming languages" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=murasolib&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=murasolib&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" />
+
+</div>
+
+> To activate this animation, configure the GitHub Actions workflow described below.
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-Advanced_Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-Frontend_Development-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-Backend_Development-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Exploration-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-Mobile_Development-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+</div>
+
+- 📚 Strengthening Java fundamentals, DSA, and coding interview skills.
+- ⚛️ Building interactive React applications with reusable components and state management.
+- 🔗 Developing backend services and REST APIs with Node.js and Express.
+- 🗄️ Practicing database design and CRUD operations.
+- 🤖 Exploring AI-powered applications, voice assistants, and automation.
+- 📱 Improving cross-platform mobile development skills.
+
+## 🏆 My Developer Goals
+
+- [ ] Build and publish more full-stack projects.
+- [ ] Improve problem-solving and DSA skills.
+- [ ] Develop useful AI-powered applications.
+- [ ] Contribute to open-source projects.
+- [ ] Learn deployment, cloud services, and DevOps fundamentals.
+- [ ] Maintain a consistent coding habit.
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/murasolib">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+> Replace the LinkedIn and email links with your actual profile and email address before publishing.
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile!
+
+**"Code. Learn. Build. Repeat."** 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Colorful animated-style footer banner" />
+
+</div>
