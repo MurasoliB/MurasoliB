@@ -2,15 +2,15 @@
 
 <!-- ================= HEADER SECTION ================= -->
 <div align="center">
-  <!-- SOLID DARK NAVY HEADER (No more washed-out capsule-render) -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:0A192F&height=80&section=header" alt="Dark Navy Header"/>
+  <!-- NEW HEADER: Animated Captain America Shield Banner with Text -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:B22234,100:0A192F&height=250&section=header&text=MURASOLI%20BALAJI&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=I%20CAN%20DO%20THIS%20ALL%20DAY&descSize=20&descAlignY=60&animation=fadeIn" alt="Murasoli Balaji Captain America-inspired banner"/>
   
   <br/>
   
   <!-- Animated Typing Text (Dark Blue) -->
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=2000&pause=500&color=1E3A8A&center=true&vCenter=true&width=850&height=70&lines=%E2%9A%A1+AWAKEN+THE+TECH+AVENGER+%E2%9A%A1;B.TECH+IT+%7C+KONGU+ENGINEERING+COLLEGE;JAVA+%7C+PYTHON+%7C+FULL+STACK;BUILDING+ULTRON+AI+%7C+GIS+FLOOD+SIMULATION;CODE.+INNOVATE.+PROTECT+THE+FUTURE." alt="Animated superhero developer text"/>
   
-  <br/>
+  <br/><br/>
   
   <!-- Animated Social Badges (Dark Blue, Red, White) -->
   <a href="https://github.com/murasolib">
@@ -203,7 +203,7 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
   
   <br/><br/><br/>
   
-  <!-- SOLID FOOTER WITH SHARP "SLICE" ANIMATION (Dark Navy & Red) -->
+  <!-- NEW FOOTER: Solid "Slice" Animation (Dark Navy & Red, No Washout) -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:B22234,100:0A192F&height=150&section=footer" alt="Animated superhero footer"/>
   
   <h3>⚡ BUILD • INNOVATE • REPEAT ⚡</h3>
