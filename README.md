@@ -1,196 +1,190 @@
 <!--
-  GitHub Profile README
+  GitHub Profile README — Murasoli Balaji
   Repository: https://github.com/murasolib/murasolib
 -->
 
 <div align="center">
 
-<!-- Animated Shifting Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=230&section=header&text=Murasoli%20Balaji&fontSize=50&fontColor=00E5FF&fontAlignY=38&desc=%E2%9A%A1%20CODE%20%7C%20CREATE%20%7C%20INNOVATE%20%E2%9A%A1&descSize=18&descColor=FFFFFF&descAlignY=60&animation=twinkling&stroke=7C3AED&strokeWidth=2" width="100%" alt="Murasoli Balaji — developer profile banner"/>
+<!-- NEW ANIMATION: Cyberpunk Venom Pulse Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=240&section=header&text=Murasoli%20Balaji&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=%F0%9F%9A%80%20IT%20Undergrad%20%7C%20AI%20%26%20Full-Stack%20Builder%20%7C%20Problem%20Solver&descSize=18&descAlignY=68&animation=scaleIn&stroke=00E5FF&strokeWidth=2" width="100%" alt="Murasoli Balaji Banner"/>
 
-<!-- Upgraded Typing Animation with JetBrains Mono & Faster Transitions -->
+<!-- NEW ANIMATION: Terminal-Style Multi-Line Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00E5FF&background=00000000&center=true&vCenter=true&multiline=false&width=850&height=45&lines=%F0%9F%8E%93+Information+Technology+Student+%40+KEC;%F0%9F%92%BB+Java+%7C+Python+%7C+Data+Structures+%26+Algorithms;%F0%9F%8C%90+Full-Stack+Developer+in+Progress;%F0%9F%A4%96+AI%2C+Deep+Learning+%26+GIS+Simulation+Builder;%F0%9F%9A%80+Turning+Complex+Ideas+Into+Real-World+Code" alt="Animated developer introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2200&pause=700&color=00F7FF&background=00000000&center=true&vCenter=true&random=false&width=850&height=50&lines=%3E+Hello+World!+I'm+Murasoli+Balaji+%F0%9F%91%8B;%3E+B.Tech+IT+Student+%40+Kongu+Engineering+College+%F0%9F%8E%93;%3E+Crafting+Code+in+Java%2C+Python+%26+MERN+Stack+%E2%9A%A1;%3E+Building+ULTRON+AI+%26+GIS+Flood+Simulations+%F0%9F%8C%8A" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<!-- Interactive Badges -->
+<!-- Animated Social & Profile Pills -->
 <a href="https://github.com/murasolib">
-  <img src="https://img.shields.io/badge/GitHub-murasolib-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=161B22" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-murasolib-090D16?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=111827" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/murasolibalaji">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=084E96" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=064E77" alt="LinkedIn"/>
 </a>
 <a href="mailto:balajimurasoli@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B3261E" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-FF2E63?style=for-the-badge&logo=gmail&logoColor=white&labelColor=9E193B" alt="Email"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=murasolib&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS&labelColor=161B22" alt="GitHub profile visitor counter"/>
+<img src="https://komarev.com/ghpvc/?username=murasolib&style=for-the-badge&color=00F7FF&label=VISITS&labelColor=111827" alt="Views"/>
 
 </div>
 
-<!-- Animated Neon Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- NEW ANIMATION: Rainbow Laser Pulse Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-<img align="right" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" />
+<!-- NEW YOUNG CHARACTER ANIMATION (Young Anime Student Coding with Headphones) -->
+<img align="right" width="350" style="border-radius: 16px;" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Young Student Developer Coding" />
 
-Hello! I'm **Murasoli Balaji**, an Information Technology student at **Kongu Engineering College**, passionate about software development, algorithmic problem-solving, and emerging technologies.
+Hey there! 👋 I'm **Murasoli Balaji**, a young developer and **Information Technology undergraduate at Kongu Engineering College** with a builder's mindset.
 
-- 🎓 **Education:** B.Tech Information Technology, Kongu Engineering College
-- 📍 **Location:** Tiruvannamalai, Tamil Nadu, India
-- 💻 **Core Focus:** Java, Python, and Data Structures & Algorithms
-- 🌐 **Full-Stack:** React, JavaScript, Node.js, Express, and SQL/NoSQL Databases
-- 🤖 **AI & Research:** Deep Learning, Desktop Automation, Flood Simulation & GIS
-- 🎯 **Current Goal:** Preparing for campus placements & building production-grade software
+- 🎓 **Student Developer:** Pursuing B.Tech IT at **KEC**
+- 📍 **Hometown:** Tiruvannamalai, Tamil Nadu, India
+- 🧠 **DSA & Core Code:** Java, Python, C, Object-Oriented Programming
+- 🌐 **Full-Stack Web:** React, Node.js, Express, Tailwind, MongoDB & SQL
+- 🤖 **Next-Gen Tech:** Deep Learning, Voice AI Assistants (`ULTRON`), and GIS Terrain Modeling
+- 🎯 **Next Milestone:** Cracking campus placements & shipping impactful open-source projects
 
-> 💡 **My Philosophy:** *"Learn continuously. Build consistently. Solve real problems."*
+> ⚡ *"Code like an artist. Debug like a detective. Ship like an engineer."*
 
 <br clear="right"/>
 
-<!-- Animated Neon Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- NEW ANIMATION: Aqua Pulse Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 🛠️ Tech Stack & Arsenal
+## 🛠️ My Tech Arsenal
 
 <div align="center">
 
-| Category | Technologies |
-| :---: | :---: |
-| **💻 Languages** | <img src="https://skillicons.dev/icons?i=java,python,c,js,ts,dart&theme=dark" alt="Languages"/> |
-| **🌐 Web Dev** | <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,svelte,tailwind&theme=dark" alt="Web"/> |
-| **🗄️ Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase&theme=dark" alt="Databases"/> |
-| **🤖 AI & Vision** | <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" alt="AI"/> |
-| **⚙️ DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker,aws,gcp,flutter,androidstudio&theme=dark" alt="Tools"/> |
+<!-- Animated Floating Rocket / Tech Header -->
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="90" alt="Animated Tech"/>
+
+### 💻 Languages & Core
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,ts,dart&theme=dark&perline=6" alt="Languages"/>
+</p>
+
+### 🌐 Full-Stack & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,svelte,nodejs,express,mongodb,mysql,postgres,sqlite,firebase&theme=dark&perline=6" alt="Web and DB"/>
+</p>
+
+### 🤖 AI, Cloud & Developer Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,git,github,vscode,docker,linux,aws,gcp,flutter,postman&theme=dark&perline=6" alt="AI and Tools"/>
+</p>
 
 </div>
 
-<!-- Animated Neon Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- NEW ANIMATION: Aqua Pulse Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 🚀 Featured Projects
+## 🚀 Featured Builds
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 ULTRON — Personal AI Assistant</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Speech_AI-00E5FF?style=flat-square&logo=openai&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Automation-7C3AED?style=flat-square&logo=windows&logoColor=white"/>
-      </p>
-      <p>An intelligent desktop AI assistant built for hands-free voice interaction, contextual responses, and OS-level workflow automation.</p>
+      <h3 align="center">🤖 ULTRON — Voice AI Assistant</h3>
+      <div align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="75" alt="AI Bot"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Python-00F7FF?style=flat-square&logo=python&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Voice_AI-FF2E63?style=flat-square"/>
+        <img src="https://img.shields.io/badge/OS_Automation-7C3AED?style=flat-square"/>
+      </div>
+      <br/>
       <ul>
-        <li>🎙️ Real-time voice recognition & neural speech synthesis</li>
-        <li>🖥️ Automated Windows desktop control & app orchestration</li>
-        <li>🧠 Conversational memory & LLM API integration</li>
+        <li>🎙️ Hands-free neural voice interaction & smart replies</li>
+        <li>🖥️ Automated Windows application control & system tasks</li>
+        <li>🧠 Context-aware memory with LLM integration</li>
       </ul>
-      <p align="center">
+      <div align="center">
         <a href="https://github.com/murasolib?tab=repositories">
-          <img src="https://img.shields.io/badge/Explore_Code-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Code"/>
+          <img src="https://img.shields.io/badge/View_Project-%E2%86%92-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Repo"/>
         </a>
-      </p>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌊 Flood Simulation & GIS</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/GIS-4F46E5?style=flat-square&logo=qgis&logoColor=white"/>
-        <img src="https://img.shields.io/badge/DEM_Processing-00E5FF?style=flat-square&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Simulation-10B981?style=flat-square"/>
-      </p>
-      <p>A geospatial modeling tool that simulates dam-break and flash-flood scenarios over real-world terrain data.</p>
+      <h3 align="center">🌊 GIS Flood & Dam-Break Sim</h3>
+      <div align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="75" alt="Globe"/>
+        <br/>
+        <img src="https://img.shields.io/badge/GIS_Terrain-00F7FF?style=flat-square"/>
+        <img src="https://img.shields.io/badge/DEM_Analysis-10B981?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Hydro_Sim-7C3AED?style=flat-square"/>
+      </div>
+      <br/>
       <ul>
-        <li>🗺️ Digital Elevation Model (DEM) terrain analysis</li>
-        <li>💧 Hydrodynamic dam-break and water-flow modeling</li>
-        <li>📊 Inundation depth mapping & GIS data export</li>
+        <li>🗺️ Digital Elevation Model (DEM) 3D terrain processing</li>
+        <li>💧 Real-time dam-break & flash-flood water flow modeling</li>
+        <li>📊 Flood inundation depth heatmaps & geospatial export</li>
       </ul>
-      <p align="center">
+      <div align="center">
         <a href="https://github.com/murasolib?tab=repositories">
-          <img src="https://img.shields.io/badge/Explore_Code-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore Code"/>
+          <img src="https://img.shields.io/badge/View_Project-%E2%86%92-FF2E63?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
         </a>
-      </p>
+      </div>
     </td>
   </tr>
 </table>
 
-<!-- Animated Neon Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- NEW ANIMATION: Aqua Pulse Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 📊 GitHub Analytics & Activity
+## 📊 Live Developer Telemetry
 
 <div align="center">
 
-<!-- Side-by-Side Stats Cards -->
-<a href="https://github.com/murasolib">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=murasolib&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=FFFFFF&rank_icon=github" alt="GitHub profile statistics"/>
-</a>
-<a href="https://github.com/murasolib">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murasolib&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&langs_count=8" alt="Most-used programming languages"/>
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=murasolib&show_icons=true&theme=radical&hide_border=true&bg_color=090D16&title_color=00F7FF&icon_color=FF2E63&text_color=E2E8F0&rank_icon=percentile" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murasolib&layout=compact&theme=radical&hide_border=true&bg_color=090D16&title_color=00F7FF&text_color=E2E8F0&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
-<!-- Animated Streak Card -->
-<img width="68%" src="https://streak-stats.demolab.com?user=murasolib&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideNums=00E5FF" alt="GitHub contribution streak"/>
+<!-- Animated Neon Streak -->
+<img width="68%" src="https://streak-stats.demolab.com?user=murasolib&theme=radical&hide_border=true&background=090D16&ring=00F7FF&fire=FF2E63&currStreakLabel=00F7FF" alt="Streak Stats"/>
 
 <br/><br/>
 
-<!-- Contribution Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=murasolib&bg_color=0D1117&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&area_color=4F46E5&hide_border=true&custom_title=Real-Time%20Contribution%20Pulse" alt="GitHub contribution activity graph"/>
+<!-- Cyberpunk Pulse Activity Graph -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=murasolib&bg_color=090D16&color=00F7FF&line=FF2E63&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&custom_title=Commit%20Velocity%20%26%20Activity" alt="Activity Graph"/>
 
 </div>
 
-## 🐍 Eating My Contributions
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake.svg"/>
-  <img alt="Animated snake moving across my GitHub contribution grid" src="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 </div>
 
-<!-- Animated Neon Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- NEW ANIMATION: Aqua Pulse Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 🎯 Campus Placement & Learning Roadmap
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Current+Sprint%3A+Mastering+DSA+in+Java+%26+System+Fundamentals;Building+Full-Stack+MERN+Projects+%26+AI+Pipelines" alt="Learning Sprint"/>
-</div>
-
-- [x] Build foundational proficiency in **Java, Python, and Web Development**
-- [x] Develop **ULTRON AI Assistant** and **GIS Flood Simulation** prototypes
-- [ ] Solve **300+ Data Structures & Algorithms** problems (Arrays, Trees, Graphs, DP)
-- [ ] Master core CS subjects (**DBMS, SQL, Operating Systems, Computer Networks, OOPs**)
-- [ ] Deploy 3 full-stack cloud-hosted portfolio projects with CI/CD pipelines
-
-<!-- Animated Neon Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🤝 Let's Connect & Collaborate
+## 🤝 Let's Build Something Together!
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="90" alt="Handshake"/>
+
+<br/>
 
 <a href="https://github.com/murasolib">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub profile"/>
+  <img src="https://img.shields.io/badge/GitHub-@murasolib-090D16?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/murasolibalaji">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Murasoli_Balaji-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:balajimurasoli@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
+  <img src="https://img.shields.io/badge/Email-balajimurasoli@gmail.com-FF2E63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br/><br/>
-
-### ⚡ Build. Break. Learn. Repeat.
-*Every commit is a step forward.*
-
-<!-- Animated Shifting Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=130&section=footer&animation=twinkling" width="100%" alt="Neon gradient footer"/>
+<!-- NEW ANIMATION: Glowing Capsule Footer -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=130&section=footer" width="100%" alt="Footer"/>
 
 </div>
