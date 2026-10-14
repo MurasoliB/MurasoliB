@@ -1,26 +1,40 @@
- <!-- MURASOLI BALAJI | MARVEL-INSPIRED GITHUB PROFILE -->
+ <!-- MURASOLI BALAJI | MARVEL-INSPIRED DEVELOPER PROFILE -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:300000,55:8B0000,80:ED1C24,100:FFB000&height=250&section=header&text=MURASOLI%20BALAJI&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=ENGINEER%20YOUR%20OWN%20UNIVERSE&descSize=17&descAlignY=58&animation=fadeIn" alt="Murasoli Balaji banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:300000,55:8B0000,80:ED1C24,100:FFB000&height=250&section=header&text=MURASOLI%20BALAJI&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=ENGINEER%20YOUR%20OWN%20UNIVERSE&descSize=17&descAlignY=58&animation=fadeIn" alt="Murasoli Balaji Marvel-inspired banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=18&duration=2000&pause=600&color=FF3131&center=true&vCenter=true&width=850&height=60&lines=%E2%9A%A1+AWAKEN+THE+TECH+AVENGER+%E2%9A%A1;B.TECH+IT+%7C+KONGU+ENGINEERING+COLLEGE;JAVA+%7C+PYTHON+%7C+FULL+STACK;BUILDING+ULTRON+AI+%7C+GIS+FLOOD+SIMULATION;CODE.+INNOVATE.+PROTECT+THE+FUTURE." alt="Animated typing effect"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=18&duration=2000&pause=600&color=FF3131&center=true&vCenter=true&width=850&height=60&lines=%E2%9A%A1+AWAKEN+THE+TECH+AVENGER+%E2%9A%A1;B.TECH+IT+%7C+KONGU+ENGINEERING+COLLEGE;JAVA+%7C+PYTHON+%7C+FULL+STACK;BUILDING+ULTRON+AI+%7C+GIS+FLOOD+SIMULATION;CODE.+INNOVATE.+PROTECT+THE+FUTURE." alt="Animated superhero developer text"/>
 
 <br/>
 
-<a href="https://github.com/murasolib"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/murasolibalaji"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/></a>
-<a href="mailto:balajimurasoli@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-ED1C24?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/></a>
+<a href="https://github.com/murasolib">
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/murasolibalaji">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+</a>
+<a href="mailto:balajimurasoli@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-ED1C24?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/>
+</a>
 
 <img src="https://hits.sh/github.com/murasolib/murasolib.svg?style=for-the-badge&label=VISITORS&color=ED1C24&labelColor=0D0D0D" alt="Profile visitor counter"/>
 
 </div>
 
 <div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1C24,30:FFB000,50:FFFFFF,70:00BFFF,100:ED1C24&height=4&section=header" alt="Energy divider"/>
+
 </div>
 
 ## 🦸 ABOUT THE DEVELOPER
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/IDENTITY-TECH_AVENGER-ED1C24?style=for-the-badge&logo=probot&logoColor=white" alt="Tech Avenger"/>
+
+</div>
 
 <img align="right" width="290" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Developer animation"/>
 
@@ -54,7 +68,7 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
 
 ### 🌐 Full-Stack Development
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,svelte,nodejs,express&theme=dark&perline=7" alt="Web technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,svelte,nodejs,express&theme=dark&perline=7" alt="Web development technologies"/>
 
 ### 🗄️ Databases and Backend
 
@@ -67,7 +81,9 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
 </div>
 
 <div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1C24,30:FFB000,50:FFFFFF,70:00BFFF,100:ED1C24&height=4&section=header" alt="Energy divider"/>
+
 </div>
 
 ## 🚀 PROJECTS FROM THE MULTIVERSE
@@ -84,12 +100,14 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
 
 **Personal Voice AI Assistant**
 
-- 🎙️ Voice interaction and spoken responses
+A Python-based assistant designed to make computer interaction smarter and more convenient.
+
+- 🎙️ Voice input and spoken responses
 - 🖥️ Windows application automation
 - 🧠 Context-aware assistant memory
 - ⚙️ Smart command execution
 
-**Technology**
+**Tech Stack**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Voice_AI-ED1C24?style=flat-square" alt="Voice AI"/>
@@ -97,7 +115,9 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
 
 <br/><br/>
 
-<a href="https://github.com/murasolib?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-0D0D0D?style=for-the-badge&logo=github&logoColor=ED1C24" alt="Explore ULTRON"/></a>
+<a href="https://github.com/murasolib?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-0D0D0D?style=for-the-badge&logo=github&logoColor=ED1C24" alt="Explore ULTRON project"/>
+</a>
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -110,12 +130,14 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
 
 **Flood and Dam-Break Modeling**
 
+A geospatial simulation project focused on understanding terrain, water flow and flood inundation.
+
 - 🗺️ Digital Elevation Model processing
 - 💧 Dam-break and flood-flow modeling
 - 📊 Flood-depth visualization
 - 📁 Geospatial data export
 
-**Technology**
+**Tech Stack**
 
 <img src="https://img.shields.io/badge/GIS-00BFFF?style=flat-square" alt="GIS"/>
 <img src="https://img.shields.io/badge/DEM-10B981?style=flat-square" alt="DEM"/>
@@ -123,46 +145,36 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
 
 <br/><br/>
 
-<a href="https://github.com/murasolib?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-0D0D0D?style=for-the-badge&logo=github&logoColor=00BFFF" alt="Explore flood simulation"/></a>
+<a href="https://github.com/murasolib?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-0D0D0D?style=for-the-badge&logo=github&logoColor=00BFFF" alt="Explore flood simulation project"/>
+</a>
 
 </td>
 </tr>
 </table>
 
 <div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1C24,30:FFB000,50:FFFFFF,70:00BFFF,100:ED1C24&height=4&section=header" alt="Energy divider"/>
+
 </div>
 
 ## 📊 DEVELOPER TELEMETRY
 
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="middle">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=murasolib&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=ED1C24&icon_color=FFB000&text_color=FFFFFF&rank_icon=percentile" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murasolib&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=00BFFF&text_color=FFFFFF&langs_count=8" alt="Most-used languages"/>
 
-<img width="100%" height="195" src="https://github-readme-stats.vercel.app/api?username=murasolib&show_icons=true&hide_border=true&border_radius=10&bg_color=0D0D0D&title_color=ED1C24&icon_color=FFB000&text_color=FFFFFF&rank_icon=percentile&card_width=450" alt="GitHub statistics"/>
+<br/><br/>
 
-</td>
-<td width="50%" align="center" valign="middle">
-
-<img width="100%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murasolib&layout=compact&hide_border=true&border_radius=10&bg_color=0D0D0D&title_color=00BFFF&text_color=FFFFFF&langs_count=6&card_width=450" alt="Top programming languages"/>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<img width="100%" height="195" src="https://streak-stats.demolab.com?user=murasolib&hide_border=true&border_radius=10&background=0D0D0D&ring=ED1C24&fire=FFB000&currStreakLabel=00BFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFB000&dates=AAAAAA" alt="GitHub contribution streak"/>
-
-</td>
-</tr>
-</table>
+<img width="75%" src="https://streak-stats.demolab.com?user=murasolib&hide_border=true&background=0D0D0D&ring=ED1C24&fire=FFB000&currStreakLabel=00BFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFB000&dates=AAAAAA" alt="GitHub contribution streak"/>
 
 </div>
 
 <div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1C24,30:FFB000,50:FFFFFF,70:00BFFF,100:ED1C24&height=4&section=header" alt="Energy divider"/>
+
 </div>
 
 ## 🐍 THE CONTRIBUTION GAUNTLET
@@ -178,7 +190,9 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
 </div>
 
 <div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1C24,30:FFB000,50:FFFFFF,70:00BFFF,100:ED1C24&height=4&section=header" alt="Energy divider"/>
+
 </div>
 
 ## 🤝 ASSEMBLE WITH ME
@@ -187,15 +201,23 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
 
 <img width="100" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Handshake animation"/>
 
-### Have an idea? Let's build something extraordinary.
+<br/>
 
-<a href="https://github.com/murasolib"><img src="https://img.shields.io/badge/GITHUB-@MURASOLIB-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/murasolibalaji"><img src="https://img.shields.io/badge/LINKEDIN-MURASOLI_BALAJI-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/></a>
-<a href="mailto:balajimurasoli@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET'S_CONNECT-ED1C24?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/></a>
+**Have an idea? Let's build something extraordinary.**
+
+<a href="https://github.com/murasolib">
+<img src="https://img.shields.io/badge/GITHUB-@MURASOLIB-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile"/>
+</a>
+<a href="https://www.linkedin.com/in/murasolibalaji">
+<img src="https://img.shields.io/badge/LINKEDIN-MURASOLI_BALAJI-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn profile"/>
+</a>
+<a href="mailto:balajimurasoli@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-LET'S_CONNECT-ED1C24?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Send email"/>
+</a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB000,35:ED1C24,70:8B0000,100:050505&height=160&section=footer&animation=fadeIn" alt="Marvel-inspired footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB000,35:ED1C24,70:8B0000,100:050505&height=160&section=footer&animation=fadeIn" alt="Animated superhero footer"/>
 
 ### ⚡ BUILD • INNOVATE • REPEAT ⚡
 
