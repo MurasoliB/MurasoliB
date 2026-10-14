@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/IDENTITY-TECH_AVENGER-1E3A8A?style=for-the-badge&logo=probot&logoColor=FFFFFF&labelColor=B22234" alt="Tech Avenger"/>
 </div>
 
-<!-- Animated GIF (Replaced broken link with a working coding GIF) -->
+<!-- Animated GIF -->
 <img align="right" width="290" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Developer animation"/>
 
 Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate at **Kongu Engineering College**, passionate about software development, artificial intelligence, and solving real-world problems through technology.
@@ -162,28 +162,24 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:B22234,100:1E3A8A&height=6&section=header&animation=blinking" alt="Energy divider"/>
 </div>
 
-<!-- ================= SHIELD ANIMATION & SNAKE ================= -->
+<!-- ================= SHIELD ANIMATION (REPLACING BROKEN SNAKE) ================= -->
 <h2 align="center">🛡️ THE SHIELD PROTOCOL</h2>
 
 <div align="center">
-  <!-- CUSTOM ANIMATED SVG CAPTAIN AMERICA SHIELD (Replaces broken GIF) -->
-  <svg width="120" height="120" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- CUSTOM ANIMATED SVG CAPTAIN AMERICA SHIELD (No more broken GIFs) -->
+  <svg width="150" height="150" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
     <circle cx="50" cy="50" r="48" fill="#0A192F" stroke="#FFFFFF" stroke-width="4"/>
     <circle cx="50" cy="50" r="38" fill="#B22234" stroke="#FFFFFF" stroke-width="2"/>
     <circle cx="50" cy="50" r="28" fill="#0A192F" stroke="#FFFFFF" stroke-width="2"/>
     <circle cx="50" cy="50" r="18" fill="#B22234" stroke="#FFFFFF" stroke-width="2"/>
     <polygon points="50,32 53,42 63,42 55,48 58,58 50,52 42,58 45,48 37,42 47,42" fill="#FFFFFF"/>
-    <animateTransform attributeName="transform" type="rotate" from="0 50 50" to="360 50 50" dur="8s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 50 50" to="360 50 50" dur="10s" repeatCount="indefinite"/>
   </svg>
   
   <br/><br/>
   
-  <!-- Contribution Snake (Ensuring it uses the correct colors) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake.svg"/>
-    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/murasolib/murasolib/output/github-contribution-grid-snake.svg" width="100%"/>
-  </picture>
+  <!-- Replaced broken snake with an animated "Infinity Stones" / Shield themed GIF -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:B22234,100:0A192F&height=100&section=footer&text=ASSEMBLE%20THE%20AVENGERS&fontSize=30&fontColor=FFFFFF&animation=twinkling" alt="Animated Shield Protocol Banner"/>
 </div>
 
 <!-- ================= FOOTER SECTION ================= -->
