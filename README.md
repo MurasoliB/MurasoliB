@@ -2,40 +2,47 @@
 
 <!-- ================= HEADER SECTION ================= -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:300000,55:8B0000,80:ED1C24,100:FFB000&height=220&section=header&text=MURASOLI%20BALAJI&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=ENGINEER%20YOUR%20OWN%20UNIVERSE&descSize=17&descAlignY=60&animation=fadeIn" alt="Murasoli Balaji Marvel-inspired banner"/>
+  <!-- Animated Waving Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,25:FF4500,55:FFD700,80:00BFFF,100:8A2BE2&height=250&section=header&text=MURASOLI%20BALAJI&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=ENGINEER%20YOUR%20OWN%20UNIVERSE&descSize=20&descAlignY=60&animation=twinkling" alt="Murasoli Balaji Marvel-inspired banner"/>
   
   <br/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=18&duration=2000&pause=600&color=FF3131&center=true&vCenter=true&width=850&height=60&lines=%E2%9A%A1+AWAKEN+THE+TECH+AVENGER+%E2%9A%A1;B.TECH+IT+%7C+KONGU+ENGINEERING+COLLEGE;JAVA+%7C+PYTHON+%7C+FULL+STACK;BUILDING+ULTRON+AI+%7C+GIS+FLOOD+SIMULATION;CODE.+INNOVATE.+PROTECT+THE+FUTURE." alt="Animated superhero developer text"/>
+  <!-- Animated Typing Text -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=2000&pause=500&color=FF3131&center=true&vCenter=true&width=850&height=70&lines=%E2%9A%A1+AWAKEN+THE+TECH+AVENGER+%E2%9A%A1;B.TECH+IT+%7C+KONGU+ENGINEERING+COLLEGE;JAVA+%7C+PYTHON+%7C+FULL+STACK;BUILDING+ULTRON+AI+%7C+GIS+FLOOD+SIMULATION;CODE.+INNOVATE.+PROTECT+THE+FUTURE." alt="Animated superhero developer text"/>
   
   <br/><br/>
   
+  <!-- Animated Social Badges -->
   <a href="https://github.com/murasolib">
-    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-0D0D0D?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=8A2BE2" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/murasolibalaji">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=00BFFF" alt="LinkedIn"/>
   </a>
   <a href="mailto:balajimurasoli@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-ED1C24?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/>
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-ED1C24?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=FF4500" alt="Email"/>
   </a>
   
   <br/><br/>
   
-  <img src="https://hits.sh/github.com/murasolib/murasolib.svg?style=for-the-badge&label=VISITORS&color=ED1C24&labelColor=0D0D0D" alt="Profile visitor counter"/>
+  <!-- Animated Visitor Counter -->
+  <img src="https://hits.sh/github.com/murasolib/murasolib.svg?style=for-the-badge&label=VISITORS&color=8A2BE2&labelColor=0D0D0D" alt="Profile visitor counter"/>
   
   <br/><br/>
   
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1C24,30:FFB000,50:FFFFFF,70:00BFFF,100:ED1C24&height=4&section=header" alt="Energy divider"/>
+  <!-- Animated Colorful Divider -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,30:FFD700,50:00BFFF,70:8A2BE2,100:FF0000&height=6&section=header&animation=blinking" alt="Energy divider"/>
 </div>
 
 <!-- ================= ABOUT SECTION ================= -->
 ## 🦸 ABOUT THE DEVELOPER
 
 <div align="center">
-  <img src="https://img.shields.io/badge/IDENTITY-TECH_AVENGER-ED1C24?style=for-the-badge&logo=probot&logoColor=white" alt="Tech Avenger"/>
+  <!-- Animated Badge -->
+  <img src="https://img.shields.io/badge/IDENTITY-TECH_AVENGER-ED1C24?style=for-the-badge&logo=probot&logoColor=white&labelColor=FFD700" alt="Tech Avenger"/>
 </div>
 
+<!-- Animated GIF -->
 <img align="right" width="290" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Developer animation"/>
 
 Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate at **Kongu Engineering College**, passionate about software development, artificial intelligence, and solving real-world problems through technology.
@@ -53,7 +60,8 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
 <div align="center">
   > *"With great code comes great responsibility."*
   <br/><br/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1C24,30:FFB000,50:FFFFFF,70:00BFFF,100:ED1C24&height=4&section=header" alt="Energy divider"/>
+  <!-- Animated Colorful Divider -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,30:FFD700,50:00BFFF,70:8A2BE2,100:FF0000&height=6&section=header&animation=blinking" alt="Energy divider"/>
 </div>
 
 <!-- ================= TECH ARSENAL ================= -->
@@ -73,7 +81,8 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,git,github,vscode,docker,linux,aws,gcp,flutter,postman&theme=dark&perline=6" alt="AI and developer tools"/>
   
   <br/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1C24,30:FFB000,50:FFFFFF,70:00BFFF,100:ED1C24&height=4&section=header" alt="Energy divider"/>
+  <!-- Animated Colorful Divider -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,30:FFD700,50:00BFFF,70:8A2BE2,100:FF0000&height=6&section=header&animation=blinking" alt="Energy divider"/>
 </div>
 
 <!-- ================= PROJECTS ================= -->
@@ -82,7 +91,8 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
-  <img src="https://img.shields.io/badge/PROJECT_01-IRON_MAN_PROTOCOL-ED1C24?style=for-the-badge" alt="Project one"/>
+  <!-- Animated Project Badge -->
+  <img src="https://img.shields.io/badge/PROJECT_01-IRON_MAN_PROTOCOL-ED1C24?style=for-the-badge&labelColor=FFD700" alt="Project one"/>
   <h3>🤖 ULTRON AI</h3>
   <img width="100" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="AI animation"/>
   <p><strong>Personal Voice AI Assistant</strong></p>
@@ -99,11 +109,12 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
   <img src="https://img.shields.io/badge/Automation-6D28D9?style=flat-square" alt="Automation"/>
   <br/><br/>
   <a href="https://github.com/murasolib?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE_PROJECT-0D0D0D?style=for-the-badge&logo=github&logoColor=ED1C24" alt="Explore ULTRON project"/>
+    <img src="https://img.shields.io/badge/EXPLORE_PROJECT-0D0D0D?style=for-the-badge&logo=github&logoColor=ED1C24&labelColor=8A2BE2" alt="Explore ULTRON project"/>
   </a>
 </td>
 <td width="50%" align="center" valign="top">
-  <img src="https://img.shields.io/badge/PROJECT_02-STORM_PROTOCOL-00BFFF?style=for-the-badge" alt="Project two"/>
+  <!-- Animated Project Badge -->
+  <img src="https://img.shields.io/badge/PROJECT_02-STORM_PROTOCOL-00BFFF?style=for-the-badge&labelColor=FFD700" alt="Project two"/>
   <h3>🌊 GIS FLOOD SIMULATION</h3>
   <img width="100" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="Earth animation"/>
   <p><strong>Flood and Dam-Break Modeling</strong></p>
@@ -120,38 +131,36 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
   <img src="https://img.shields.io/badge/HYDROLOGY-6D28D9?style=flat-square" alt="Hydrology"/>
   <br/><br/>
   <a href="https://github.com/murasolib?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE_PROJECT-0D0D0D?style=for-the-badge&logo=github&logoColor=00BFFF" alt="Explore flood simulation project"/>
+    <img src="https://img.shields.io/badge/EXPLORE_PROJECT-0D0D0D?style=for-the-badge&logo=github&logoColor=00BFFF&labelColor=8A2BE2" alt="Explore flood simulation project"/>
   </a>
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1C24,30:FFB000,50:FFFFFF,70:00BFFF,100:ED1C24&height=4&section=header" alt="Energy divider"/>
+  <!-- Animated Colorful Divider -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,30:FFD700,50:00BFFF,70:8A2BE2,100:FF0000&height=6&section=header&animation=blinking" alt="Energy divider"/>
 </div>
 
-<!-- ================= TELEMETRY (NEW MARVEL DESIGN) ================= -->
+<!-- ================= TELEMETRY (COLORFUL & ANIMATED) ================= -->
 ## 📊 DEVELOPER TELEMETRY
 
 <div align="center">
-  <!-- Profile Details Card (Full Width) -->
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murasolib&theme=marvel" alt="Profile Details"/>
+  <!-- Animated GitHub Stats Card (Colorful) -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=murasolib&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FFD700&text_color=00BFFF&rank_icon=percentile&border_radius=15" alt="GitHub statistics"/>
+  
+  <!-- Animated Top Languages Card (Colorful) -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murasolib&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=00BFFF&text_color=FFD700&langs_count=8&border_radius=15" alt="Most-used languages"/>
   
   <br/><br/>
   
-  <!-- Repos Per Language & Most Commit Language (Side by Side) -->
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murasolib&theme=marvel" alt="Repos per language"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=murasolib&theme=marvel" alt="Most commit language"/>
-  
-  <br/><br/>
-  
-  <!-- Stats & Productive Time (Side by Side) -->
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=murasolib&theme=marvel" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=murasolib&theme=marvel&utcOffset=5.5" alt="Productive Time"/>
+  <!-- Animated Streak Stats Card (Colorful) -->
+  <img width="75%" src="https://streak-stats.demolab.com?user=murasolib&hide_border=true&background=0D0D0D&ring=FF0000&fire=FFD700&currStreakLabel=00BFFF&sideLabels=FFFFFF&currStreakNum=FFD700&sideNums=8A2BE2&dates=AAAAAA&border_radius=15" alt="GitHub contribution streak"/>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1C24,30:FFB000,50:FFFFFF,70:00BFFF,100:ED1C24&height=4&section=header" alt="Energy divider"/>
+  <!-- Animated Colorful Divider -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,30:FFD700,50:00BFFF,70:8A2BE2,100:FF0000&height=6&section=header&animation=blinking" alt="Energy divider"/>
 </div>
 
 <!-- ================= SNAKE ================= -->
@@ -168,32 +177,35 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
 <!-- ================= FOOTER SECTION ================= -->
 <div align="center">
   <br/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1C24,30:FFB000,50:FFFFFF,70:00BFFF,100:ED1C24&height=4&section=header" alt="Energy divider"/>
+  <!-- Animated Colorful Divider -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,30:FFD700,50:00BFFF,70:8A2BE2,100:FF0000&height=6&section=header&animation=blinking" alt="Energy divider"/>
   
   <br/>
   
   <h2>🤝 ASSEMBLE WITH ME</h2>
   
+  <!-- Animated Handshake GIF -->
   <img width="100" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Handshake animation"/>
   
   <br/><br/>
   
   <p><strong>Have an idea? Let's build something extraordinary.</strong></p>
   
+  <!-- Animated Footer Links -->
   <a href="https://github.com/murasolib">
-    <img src="https://img.shields.io/badge/GITHUB-@MURASOLIB-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile"/>
+    <img src="https://img.shields.io/badge/GITHUB-@MURASOLIB-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=8A2BE2" alt="GitHub profile"/>
   </a>
   <a href="https://www.linkedin.com/in/murasolibalaji">
-    <img src="https://img.shields.io/badge/LINKEDIN-MURASOLI_BALAJI-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn profile"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-MURASOLI_BALAJI-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=00BFFF" alt="LinkedIn profile"/>
   </a>
   <a href="mailto:balajimurasoli@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-LET'S_CONNECT-ED1C24?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Send email"/>
+    <img src="https://img.shields.io/badge/EMAIL-LET'S_CONNECT-ED1C24?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=FF4500" alt="Send email"/>
   </a>
   
   <br/><br/><br/>
   
-  <!-- FOOTER BANNER -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB000,35:ED1C24,70:8B0000,100:050505&height=180&section=footer&animation=fadeIn" alt="Animated superhero footer"/>
+  <!-- Animated Waving Footer -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,35:00BFFF,70:FFD700,100:FF0000&height=200&section=footer&animation=twinkling" alt="Animated superhero footer"/>
   
   <h3>⚡ BUILD • INNOVATE • REPEAT ⚡</h3>
   <sub>Inspired by superhero cinema. Powered by curiosity and code.</sub>
