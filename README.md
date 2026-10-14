@@ -130,15 +130,24 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1C24,30:FFB000,50:FFFFFF,70:00BFFF,100:ED1C24&height=4&section=header" alt="Energy divider"/>
 </div>
 
-<!-- ================= TELEMETRY ================= -->
+<!-- ================= TELEMETRY (NEW MARVEL DESIGN) ================= -->
 ## 📊 DEVELOPER TELEMETRY
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=murasolib&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=ED1C24&icon_color=FFB000&text_color=FFFFFF&rank_icon=percentile" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murasolib&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=00BFFF&text_color=FFFFFF&langs_count=8" alt="Most-used languages"/>
+  <!-- Profile Details Card (Full Width) -->
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murasolib&theme=marvel" alt="Profile Details"/>
   
   <br/><br/>
   
-  <img width="75%" src="https://streak-stats.demolab.com?user=murasolib&hide_border=true&background=0D0D0D&ring=ED1C24&fire=FFB000&currStreakLabel=00BFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFB000&dates=AAAAAA" alt="GitHub contribution streak"/>
+  <!-- Repos Per Language & Most Commit Language (Side by Side) -->
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murasolib&theme=marvel" alt="Repos per language"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=murasolib&theme=marvel" alt="Most commit language"/>
+  
+  <br/><br/>
+  
+  <!-- Stats & Productive Time (Side by Side) -->
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=murasolib&theme=marvel" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=murasolib&theme=marvel&utcOffset=5.5" alt="Productive Time"/>
 </div>
 
 <div align="center">
