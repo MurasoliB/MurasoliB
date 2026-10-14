@@ -1,18 +1,18 @@
-<!-- MURASOLI BALAJI | SOLID DARK NAVY THEME -->
+<!-- MURASOLI BALAJI | CAPTAIN AMERICA DARK NAVY THEME -->
 
 <!-- ================= HEADER SECTION ================= -->
 <div align="center">
   <!-- SOLID DARK NAVY HEADER WITH TEXT (No blend, no gradient) -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:0A192F&height=250&section=header&text=MURASOLI%20BALAJI&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=I%20CAN%20DO%20THIS%20ALL%20DAY&descSize=20&descAlignY=60&animation=fadeIn" alt="Murasoli Balaji Solid Dark Navy Header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:0A192F&height=250&section=header&text=MURASOLI%20BALAJI&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=I%20CAN%20DO%20THIS%20ALL%20DAY&descSize=20&descAlignY=60&animation=fadeIn" alt="Murasoli Balaji Dark Navy Header"/>
   
   <br/>
   
-  <!-- Animated Typing Text (White) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=850&height=70&lines=%E2%9A%A1+AWAKEN+THE+TECH+AVENGER+%E2%9A%A1;B.TECH+IT+%7C+KONGU+ENGINEERING+COLLEGE;JAVA+%7C+PYTHON+%7C+FULL+STACK;BUILDING+ULTRON+AI+%7C+GIS+FLOOD+SIMULATION;CODE.+INNOVATE.+PROTECT+THE+FUTURE." alt="Animated superhero developer text"/>
+  <!-- Animated Typing Text -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=2000&pause=500&color=1E3A8A&center=true&vCenter=true&width=850&height=70&lines=%E2%9A%A1+AWAKEN+THE+TECH+AVENGER+%E2%9A%A1;B.TECH+IT+%7C+KONGU+ENGINEERING+COLLEGE;JAVA+%7C+PYTHON+%7C+FULL+STACK;BUILDING+ULTRON+AI+%7C+GIS+FLOOD+SIMULATION;CODE.+INNOVATE.+PROTECT+THE+FUTURE." alt="Animated superhero developer text"/>
   
   <br/><br/>
   
-  <!-- Animated Social Badges (Dark Navy, White) -->
+  <!-- Animated Social Badges -->
   <a href="https://github.com/murasolib">
     <img src="https://img.shields.io/badge/GITHUB-FOLLOW-0A192F?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0A192F" alt="GitHub"/>
   </a>
@@ -147,13 +147,13 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
 
 <div align="center">
   <!-- Stats Cards styled with Solid Dark Navy -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=murasolib&show_icons=true&hide_border=true&bg_color=0A192F&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&rank_icon=percentile&border_radius=15" alt="GitHub statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=murasolib&show_icons=true&hide_border=true&bg_color=0A192F&title_color=0A192F&icon_color=FFFFFF&text_color=FFFFFF&rank_icon=percentile&border_radius=15" alt="GitHub statistics"/>
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murasolib&layout=compact&hide_border=true&bg_color=0A192F&title_color=FFFFFF&text_color=FFFFFF&langs_count=8&border_radius=15" alt="Most-used languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murasolib&layout=compact&hide_border=true&bg_color=0A192F&title_color=0A192F&text_color=FFFFFF&langs_count=8&border_radius=15" alt="Most-used languages"/>
   
   <br/><br/>
   
-  <img width="75%" src="https://streak-stats.demolab.com?user=murasolib&hide_border=true&background=0A192F&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&border_radius=15" alt="GitHub contribution streak"/>
+  <img width="75%" src="https://streak-stats.demolab.com?user=murasolib&hide_border=true&background=0A192F&ring=0A192F&fire=0A192F&currStreakLabel=0A192F&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=0A192F&dates=AAAAAA&border_radius=15" alt="GitHub contribution streak"/>
 </div>
 
 <div align="center">
@@ -204,7 +204,7 @@ Hey there! 👋 I'm **Murasoli Balaji**, an Information Technology undergraduate
   <br/><br/><br/>
   
   <!-- SOLID DARK NAVY FOOTER (No blend, no gradient) -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:0A192F&height=150&section=footer&animation=fadeIn" alt="Solid Dark Navy Footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:0A192F&height=150&section=footer&animation=fadeIn" alt="Dark Navy Footer"/>
   
   <h3>⚡ BUILD • INNOVATE • REPEAT ⚡</h3>
   <sub>Inspired by superhero cinema. Powered by curiosity and code.</sub>
